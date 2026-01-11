@@ -90,12 +90,12 @@ main
 
 Chaque groupe est libre d'organiser sa structure à sa guise.
 
-### PLANNING SEMAINE
+### PLANNING SEMAINE (Indicatif)
 
-**Jour 1 :** Architecture, base de données, setup Git
-**Jour 2-3 :** Développement des fonctionnalités
-**Jour 4 :** Intégration, tests, debugging
-**Jour 5 :** Finalisation, préparation présentation
+- **Jour 1 :** Architecture, base de données, setup Git
+- **Jour 2-3 :** Développement des fonctionnalités
+- **Jour 4 :** Intégration, tests, debugging
+-  **Jour 5 :** Finalisation, préparation présentation
 
 ---
 
