@@ -14,7 +14,7 @@ Vou aller devoir créer un **projet** dans github pour organiser votre travail.
 
 ### RÉPARTITION DES RÔLES
 Chaque membre assume une fonction :
-- **Dev 1**(Chef de projet) : coordination, planning, git
+- **Dev 1** (Chef de projet) : coordination, planning, git
 - **Dev 2** (Développeur back) : logique PHP, base de données
 - **Dev 4** (Développeur front) : HTML/CSS, intégration
 
