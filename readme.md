@@ -8,6 +8,8 @@ La liste des projets se trouve dans le fichier [sujets_projets.md](https://githu
 
 Vou aller devoir créer un **projet** dans github pour organiser votre travail.
 
+Vu qu'on travail avec des données récoltées bien respecter et mettre des messages d'avertissement **RGPD** : [Guide RGPD pour les développeurs](https://www.cnil.fr/fr/la-cnil-publie-un-guide-rgpd-pour-les-developpeurs)
+
 ---
 
 ## ORGANISATION DU TRAVAIL EN GROUPE
