@@ -69,7 +69,7 @@ Chaque groupe est libre d'organiser sa structure à sa guise.
 ### 2. CODE SOURCE
 
 - Fichier SQL de création de base
-- Code commenté si il nécéssite une explicatrion (éviter à tout de mettre des commentaires fa   it par LLM)
+- Code commenté si il nécéssite une explicatrion (éviter à tout de mettre des commentaires fait par LLM)
 - Validation des données (formulaires)
 - Protection contre injections SQL
 
