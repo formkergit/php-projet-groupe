@@ -2,6 +2,8 @@
 
 Pendant la semaine vous allez devoir travailer sur un projet par groupe.
 
+La liste des groupes se trouve dans le fichier [groupes.md](https://github.com/formkergit/php-projet-groupe/blob/main/groupes.md).
+
 La liste des projets se trouve dans le fichier [sujets_projets.md](https://github.com/formkergit/php-projet-groupe/blob/main/sujets_projets.md).
 
 Vou aller devoir créer un **projet** dans github pour organiser votre travail.
