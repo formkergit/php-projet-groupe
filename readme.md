@@ -142,6 +142,7 @@ Format PDF ou slides (10-12 slides max) :
   - Nommage cohérent
   - Pas de répétition (DRY)
   - Sécurité (SQL, XSS, CSRF)
+  - PHP : Router , CRUD, Authentification, MVC(Controllers , Modele , Vue)
   
 - **Base de données** : /2
   - Schéma normalisé
