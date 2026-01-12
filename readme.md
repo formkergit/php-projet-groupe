@@ -40,7 +40,7 @@ main
 6. Merge après validation
 7. Merge dev → main en fin de semaine
 
-Ajouter la `git remote upstream [depot qui a été forké]`
+Ajouter la `git remote add upstream [depot qui a été forké]`
 
 ![git pull request](./git_pull_request.png)
 
