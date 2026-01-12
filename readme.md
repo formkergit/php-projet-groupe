@@ -97,9 +97,11 @@ Format PDF ou slides (10-12 slides max) :
 - Base de données avec données de test
 - Fichier `INSTALL.md` avec procédure complète
 
-- **Date limite :** Vendredi 
-- **Passage à l'oral :** 14h00
-- **Remise :** Lien Git + URL de démo (si en ligne)
+---
+
+**Date limite :** Vendredi  
+**Passage à l'oral :** 14h00  
+**Remise :** Lien Git + URL de démo (si en ligne)
 
 ---
 
