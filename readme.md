@@ -38,7 +38,7 @@ main
 6. Merge après validation
 7. Merge dev → main en fin de semaine
 
-![git pull request](./git_pull_request2.png)
+![git pull request](./git_pull_request.png)
 
 **Règles Git :**
 
