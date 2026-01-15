@@ -70,7 +70,7 @@ Chaque groupe est libre d'organiser sa structure à sa guise.
 
 - Historique complet des commits
 - Branches feature visibles
-- README.md détaillé du projet
+- `README.md` détaillé du projet
 
 ### 2. CODE SOURCE
 
