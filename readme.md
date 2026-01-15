@@ -44,6 +44,8 @@ Ajouter la `git remote add upstream [depot qui a été forké]`
 
 ![git pull request](./git_pull_request.png)
 
+![git pull request](./git_pull_request2.png)
+
 **Règles Git :**
 
 - Commits atomiques
